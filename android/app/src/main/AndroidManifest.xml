@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.companyname.packagename.myappflutter">
+    package="br.com.dioscar90.cep_app">
    <application
-        android:label="myappflutter"
+        android:label="cep_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

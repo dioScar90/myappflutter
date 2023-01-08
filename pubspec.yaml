@@ -1,4 +1,4 @@
-name: myappflutter
+name: cep_app
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -31,6 +31,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  dio: ^4.0.6
 
 
   # The following adds the Cupertino Icons font to your application.
